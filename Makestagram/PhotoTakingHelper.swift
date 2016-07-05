@@ -49,4 +49,5 @@ class PhotoTakingHelper : NSObject {
         }
         
         viewController.presentViewController(alertController, animated: true, completion: nil)
+    }
 }
