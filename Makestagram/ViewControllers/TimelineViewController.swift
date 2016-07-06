@@ -25,8 +25,9 @@ extension TimelineViewController: UITabBarControllerDelegate {
     func takePhoto() {
         // instantiate photo taking class, provide callback for when photo is selected
         photoTakingHelper = PhotoTakingHelper(viewController: self.tabBarController!) { (image: UIImage?) in
-            // don't do anything, yet...
+            print("received a callback")
+            
+        
         }
     }
 }
-
