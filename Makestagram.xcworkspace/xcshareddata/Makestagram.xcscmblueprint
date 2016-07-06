@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "735D178D02FF0167A95090DD8684BF473BF6BEB9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A9B5F450D16CE4A03DC5F1217D1B39E297F9D01C" : 0,
+    "735D178D02FF0167A95090DD8684BF473BF6BEB9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B489A716-BE92-4D7C-8016-0B7646626DC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A9B5F450D16CE4A03DC5F1217D1B39E297F9D01C" : "",
+    "735D178D02FF0167A95090DD8684BF473BF6BEB9" : "Makestagram-Swift-V2-Starter-master\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Makestagram",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Makestagram.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AbbyEF109\/Makestagram.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "735D178D02FF0167A95090DD8684BF473BF6BEB9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AbbyEF109\/FanOfFinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9B5F450D16CE4A03DC5F1217D1B39E297F9D01C"
+    }
+  ]
+}

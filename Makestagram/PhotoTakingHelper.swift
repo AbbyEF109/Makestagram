@@ -1,11 +1,3 @@
-//
-//  PhotoTakingHelper.swift
-//  Makestagram
-//
-//  Created by Abby on 7/5/16.
-//  Copyright © 2016 Make School. All rights reserved.
-//
-
 import UIKit
 
 typealias PhotoTakingHelperCallback = UIImage? -> Void
